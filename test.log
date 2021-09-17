@@ -1,0 +1,35 @@
+2021-09-17 17:15:49,834:INFO:DM No. 1: b'Post was successfully sent at 2021-08-28 16:41 WIB. Check your post here: https://t.co/vRiInpH5Z7'
+2021-09-17 17:15:49,834:INFO:DM No. 2: b'Post was successfully sent at 2021-08-28 16:43 WIB. Check your post here: https://t.co/JiZCIR7NCD'
+2021-09-17 17:15:49,834:INFO:DM No. 3: b'Post was successfully sent at 2021-08-28 16:44 WIB. Check your post here: https://t.co/lbjnqDS1BB'
+2021-09-17 17:15:49,835:INFO:DM No. 4: b'Post was successfully sent at 2021-08-28 16:46 WIB. Check your post here: https://t.co/NcuIZ3cF1H'
+2021-09-17 17:15:49,835:INFO:DM No. 5: b'Hola'
+2021-09-17 17:15:49,835:INFO:DM No. 6: b'hola'
+2021-09-17 17:15:49,835:INFO:DM No. 7: b'vh'
+2021-09-17 17:15:49,835:INFO:Total DM = 7
+2021-09-17 17:15:50,465:INFO:DM No 5 was sent. Status = sent
+2021-09-17 17:16:00,747:INFO:Finished.
+2021-09-17 17:17:31,501:INFO:DM No 6 was sent. Status = sent
+2021-09-17 17:17:41,829:INFO:Finished.
+2021-09-17 17:18:42,592:INFO:DM No 7 was sent. Status = sent
+2021-09-17 17:18:58,102:INFO:Finished.
+2021-09-17 17:20:13,177:INFO:DM has been checked
+2021-09-17 17:22:21,127:INFO:DM No. 1: b'Post was successfully sent at 2021-09-17 17:15 WIB. Check your post here: https://t.co/bQriVXKyv3'
+2021-09-17 17:22:21,127:INFO:DM No. 2: b'gola'
+2021-09-17 17:22:21,127:INFO:DM No. 3: b'Buenas'
+2021-09-17 17:22:21,128:INFO:DM No. 4: b'Post was successfully sent at 2021-09-17 17:17 WIB. Check your post here: https://t.co/LtB4nCEHD7'
+2021-09-17 17:22:21,128:INFO:DM No. 5: b'Post was successfully sent at 2021-09-17 17:18 WIB. Check your post here: https://t.co/0wBTKBA99F'
+2021-09-17 17:22:21,128:INFO:Total DM = 5
+2021-09-17 17:22:21,843:INFO:DM No 2 was sent. Status = sent
+2021-09-17 17:22:32,159:INFO:Finished.
+2021-09-17 17:23:32,911:INFO:DM No 3 was sent. Status = sent
+2021-09-17 17:23:43,228:INFO:Finished.
+2021-09-17 17:25:28,330:INFO:DM has been checked
+2021-09-17 17:26:59,078:INFO:DM No. 1: b'Post was successfully sent at 2021-09-17 17:15 WIB. Check your post here: https://t.co/bQriVXKyv3'
+2021-09-17 17:26:59,078:INFO:DM No. 2: b'Post was successfully sent at 2021-09-17 17:17 WIB. Check your post here: https://t.co/LtB4nCEHD7'
+2021-09-17 17:26:59,079:INFO:DM No. 3: b'Post was successfully sent at 2021-09-17 17:18 WIB. Check your post here: https://t.co/0wBTKBA99F'
+2021-09-17 17:26:59,079:INFO:DM No. 4: b'El mensaje se ha publicado, puedes consultarlo aqu\xc3\xad https://t.co/aOmeKLVpFv'
+2021-09-17 17:26:59,079:INFO:DM No. 5: b' https://t.co/UHjtjQKYJA'
+2021-09-17 17:26:59,079:INFO:DM No. 6: b'El mensaje se ha publicado, puedes consultarlo aqu\xc3\xad https://t.co/f6cBIAaMCM'
+2021-09-17 17:26:59,079:INFO:Total DM = 6
+2021-09-17 17:26:59,424:INFO:DM No 5 was sent. Status = wrong attachment
+2021-09-17 17:27:09,434:INFO:DM has been checked
