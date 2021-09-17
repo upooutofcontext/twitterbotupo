@@ -1,1 +1,1 @@
-inicio: python3 app.py
+inicio: python app.py
